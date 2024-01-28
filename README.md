@@ -1,6 +1,6 @@
--📌 I’m @zandersonedenfield
--📌 I’m currently learning: SQL and C++
--📌 I have experience in: Python
+📌 I’m @zandersonedenfield
+📌 I’m currently learning: SQL and C++
+📌 I have experience in: Python
 
 
 <!---
